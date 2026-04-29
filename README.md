@@ -77,6 +77,7 @@ Compares total bill across different days and gender groups.
 📁 Project Structure
 
 seaborn-tips-streamlit-dashboard/
+
 │
 ├── app.py              # Main Streamlit application
 ├── README.md           # Project documentation
@@ -85,9 +86,13 @@ seaborn-tips-streamlit-dashboard/
 
 👩‍💻 Author
 
+
 🌸 Miss Swati Jadhav
+
 🎓 Seaborn Bootcamp Project
+
 📊 Passionate Data Science & Visualization Learner
+
 💡 Exploring Data Through Python
 
 ---
@@ -95,8 +100,12 @@ seaborn-tips-streamlit-dashboard/
 🌟 Future Enhancements
 
 🚀 Add sidebar filters (day, gender, time)
+
 📊 Include advanced plots (boxplot, violin plot, pairplot)
+
 🌐 Deploy on Streamlit Cloud
+
 📥 Add download report feature
+
 🎨 Improve UI with custom themes
 
